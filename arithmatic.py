@@ -13,6 +13,10 @@ def sub(a, b):
 x = int(input("Enter first number: "))
 y = int(input("Enter second number: "))
 
+
+print("substraction =", sub(x, y))
+
 print("substraction =", sub(x, y));
+
 
 print("git prac stud1 comment 1")
