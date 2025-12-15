@@ -14,4 +14,7 @@ perimeter = rectangle_perimeter(l, b)
 print("Area of rectangle =", area)
 print("Perimeter of rectangle =", perimeter)
 
+print("git prac stud1 comment 1 geo1")
+
 print("git prac stud2 comment 2 geo2")
+
